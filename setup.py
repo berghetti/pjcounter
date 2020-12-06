@@ -34,6 +34,6 @@ VERSION = "0.1"
 
 setup(name = "pjcounter", # printer job counter
       version = VERSION,
-      url = "http://www.pykota.com/software/pkpgcounter/",
+      url = "https://github.com/berghetti/pjcounter",
       license = "GNU GPL",
       packages = [ "pjcounter" ])
